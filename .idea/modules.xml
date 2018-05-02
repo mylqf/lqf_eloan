@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../comment/comment.iml" filepath="$PROJECT_DIR$/../../comment/comment.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eloan.iml" filepath="$PROJECT_DIR$/../eloan.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eloan-core/eloan-core.iml" filepath="$PROJECT_DIR$/../eloan-core/eloan-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eloan-mgtool/eloan-mgtool.iml" filepath="$PROJECT_DIR$/../eloan-mgtool/eloan-mgtool.iml" />
       <module fileurl="file://$PROJECT_DIR$/eloan-parent.iml" filepath="$PROJECT_DIR$/eloan-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eloan-uiweb/eloan-uiweb.iml" filepath="$PROJECT_DIR$/../eloan-uiweb/eloan-uiweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mmall/mmall.iml" filepath="$PROJECT_DIR$/../../mmall/mmall.iml" />
     </modules>
   </component>
 </project>

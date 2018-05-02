@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../eloan-mgtool" />
     <file type="web" url="file://$PROJECT_DIR$/../eloan-uiweb" />
+    <file type="web" url="file://$PROJECT_DIR$/../../mmall" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,8 @@
         <option value="$PROJECT_DIR$/../eloan-core/pom.xml" />
         <option value="$PROJECT_DIR$/../eloan-uiweb/pom.xml" />
         <option value="$PROJECT_DIR$/../pom.xml" />
+        <option value="$PROJECT_DIR$/../../mmall/pom.xml" />
+        <option value="$PROJECT_DIR$/../../comment/pom.xml" />
       </list>
     </option>
   </component>
